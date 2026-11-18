@@ -1,0 +1,1 @@
+The model listens to that recording, along with the exact words it says. Then it carries on speaking in the same voice, reading whatever text you give it next.

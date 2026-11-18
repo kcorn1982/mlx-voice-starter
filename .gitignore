@@ -1,0 +1,9 @@
+# Takes, tests and anything generated
+out/
+__pycache__/
+.DS_Store
+
+# A voice recording is enough for anyone to clone that voice. Keep yours out of Git.
+voices/*/reference.wav
+# The example voice is synthetic (made with VoiceDesign), so it is safe to share.
+!voices/example-narrator/reference.wav

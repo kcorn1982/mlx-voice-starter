@@ -1,0 +1,8 @@
+{
+  "made_with": "mlx-community/Qwen3-TTS-12Hz-1.7B-VoiceDesign-bf16",
+  "description": "A warm, clear British male narrator in his forties, speaking slowly and calmly, like a documentary voice-over.",
+  "seed": 11,
+  "take": 1,
+  "command": "uv run tools/say.py --design \"<description>\" --text-file voices/example-narrator/reference.txt --takes 3 --seed 11",
+  "made": "2026-11-18"
+}

@@ -1,0 +1,1 @@
+Before we start, here is how this works. You write a short line, the model speaks it, and you listen. If it sounds right, you keep it. If it doesn't, you change the words or try again. It sounds simple, and mostly it is, as long as you take it one piece at a time.
